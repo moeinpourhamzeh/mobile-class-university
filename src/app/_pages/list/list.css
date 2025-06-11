@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  gap: 5px
+}
+
+.card {
+  width: 80%;
+  display: flex;
+  flex-flow: column;
+  align-items: start;
+  background-color: lightgray;
+  border-radius: 10px;
+  padding: 5px;
+}
